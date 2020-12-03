@@ -1,6 +1,6 @@
 # Front End of PetCare using VUE
 
-## [Projeto](https://github.com/RicardoJardim/PetCare "Project")
+## [Full Project](https://github.com/RicardoJardim/PetCare "Project")
 
 ## Project setup
 ```
